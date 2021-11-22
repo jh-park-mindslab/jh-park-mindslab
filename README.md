@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ [![jh-park-mindslab github stats](https://github-readme-stats.vercel.app/api?username=jh-park-mindslab)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jh-park-mindslab/jh-park-mindslab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
